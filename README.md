@@ -22,7 +22,7 @@
 
 Telegram-инструмент для поиска тематических публичных сообществ: фильтрация результатов, локальная база и уведомления по расписанию.
 
-[Открыть кейс](https://relaybit.github.io/projects/local-leads-scout/)
+[Открыть кейс](https://relaybit.github.io/projects/local-leads-scout/) · [Посмотреть код](https://github.com/relaybit/local-leads-scout)
 
 ### Lead Hunter
 
