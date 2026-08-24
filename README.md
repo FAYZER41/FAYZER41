@@ -33,7 +33,7 @@ Telegram-инструмент для поиска тематических пу�
 ## Связаться
 
 - Telegram: [@leonid_relaybit](https://t.me/leonid_relaybit)
-- Email: [relaybit@gmail.com](mailto:relaybit@gmail.com)
+- Email: [releybit@gmail.com](mailto:releybit@gmail.com)
 - Сайт: [relaybit.github.io](https://relaybit.github.io)
 
 Открыт к небольшим и средним задачам по автоматизации. Первую рабочую версию обычно показываю через несколько дней.
